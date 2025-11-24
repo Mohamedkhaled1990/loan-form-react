@@ -5,7 +5,7 @@ import Modal from "./Modal";
 
 function App() {
   return (
-    <div>
+    <div style={{display:"flex", justifycontent:"center", alighitems:"center"}}>
       <LoanForm />
     </div>
   );
